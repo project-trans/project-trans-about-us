@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital@0;1&family=Noto+Sans+JP&family=Noto+Sans+SC&family=Noto+Sans+TC&display=swap");
+
+body {
+  font-family: "Noto Sans", system-ui, -apple-system, "Helvetica Neue",
+    Helvetica, Arial, sans-serif;
+}
+
+[lang="zh-jans"] body {
+  font-family: "Noto Sans CJK SC", system-ui, -apple-system, "Helvetica Neue",
+    Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "WenQuanYi Micro Hei",
+    "Microsoft Yahei", sans-serif;
+}
+
+[lang="zh-hant"] body {
+  font-family: "Noto Sans CJK TC", system-ui, -apple-system, "Helvetica Neue",
+    Helvetica, Arial, "PingFang TC", "Microsoft JhengHei", sans-serif;
+}
+
+[lang="ja"] body {
+  font-family: "Noto Sans CJK JP", system-ui, -apple-system, "Helvetica Neue",
+    Helvetica, Arial, "Hiragino Kaku Gothic Pro", "Yu Gothic", Meiryo,
+    "MS PGothic", sans-serif;
+}
