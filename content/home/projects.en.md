@@ -8,4 +8,4 @@ weight: 2
 - [RLE.wiki](https://RLE.wiki) (Chinese) RLE.wiki hopes to provide a guide to RLE for trans people, partly migrated from MtF.wiki, with more help on the way.
 - [2345.LGBT](https://2345.LGBT) A navigational site for trans and LGBT related resources.
 - [Chinese translation](https://tfsci.mtf.wiki) of [Transfeminine Science](https://transfemscience.org/).
-- [Chinese site](https://jyosei-guide.mtf.wiki) of _Be the voice of a girl!_ (Japanese).
+- [Chinese site](https://girls-voice.mtf.wiki) of _Be the voice of a girl!_ (Japanese).
