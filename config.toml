@@ -68,7 +68,7 @@ url = "https://t.me/MtFwiki"
 icon = "telegram"            # icon name without the 'fa-'
 icon_pack = "fab"
 [[params.social]]
-url = "https://m.cmx.im/@MtFwiki"
+url = "https://mastodon.social/@MtFwiki"
 icon = "mastodon"                 # icon name without the 'fa-'
 icon_pack = "fab"
 html_attributes = "rel=\"me\""    # Add rel attribute for Mastodon profile link verification
