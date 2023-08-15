@@ -1,6 +1,6 @@
 ---
 title: "紹介"
-image: "ja.png"
+image: "logo.png"
 weight: 1
 ---
 

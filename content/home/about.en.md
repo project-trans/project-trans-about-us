@@ -1,6 +1,6 @@
 ---
 title: "About us"
-image: "en.png"
+image: "logo.png"
 weight: 1
 ---
 

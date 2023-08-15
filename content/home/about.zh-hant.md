@@ -1,6 +1,6 @@
 ---
 title: "關於我們"
-image: "zh-hant.png"
+image: "logo.png"
 weight: 1
 ---
 

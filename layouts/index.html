@@ -19,7 +19,7 @@
             <div class="hero-body">
                 <div class="container has-text-centered">
                     <!-- Title and tagline -->
-                        <img class="bannerimg {{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in one{{ end }}" src='{{$bannerimg:= print .Site.LanguageCode ".png"}}{{ with .Resources.GetMatch $bannerimg }}{{.Permalink }}{{end}}' alt="{{ .Title }}">
+                        <img class="bannerimg {{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in one{{ end }}" src='{{$bannerimg:= "logo.png"}}{{ with .Resources.GetMatch $bannerimg }}{{.Permalink }}{{end}}' alt="{{ .Title }}">
                     <div class="subtitle is-3 {{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in two{{ end }}">
                         {{ .Content }}
                     </div>

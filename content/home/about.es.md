@@ -1,6 +1,6 @@
 ---
 title: "Acerca de nosotres"
-image: "es.png"
+image: "logo.png"
 weight: 1
 ---
 
