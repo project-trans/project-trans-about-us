@@ -1,5 +1,5 @@
 ---
-title: "プロジェクト・トランス"
+title: "Project Trans"
 weight: 0
 ---
 

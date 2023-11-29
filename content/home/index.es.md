@@ -1,5 +1,5 @@
 ---
-title: "Proyecto Trans"
+title: "Project Trans"
 weight: 0
 ---
 
