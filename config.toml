@@ -4,6 +4,7 @@ DefaultContentLanguage = "en"               # Default language for multilingual 
 defaultContentLanguageInSubdir = true
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
+title = "Project Trans"
 
 [params]
 themeStyle = "auto"       # Choose "light" or "dark" or "auto"
@@ -107,38 +108,34 @@ lineNumbersInTable = true
 style = "solarized-dark"
 tabWidth = 4
 
+
 [languages]
 [languages.en]
 languageName = "English"
 languageCode = "en"
 #contentDir = "content/en"
 #weight = 0
-title = "Project Trans"
 
 [languages.es]
 languageName = "Español"
 languageCode = "es"
 #contentDir = "content/es"
 weight = 4
-title = "Proyecto Trans"
 
 [languages.zh-hans]
 languageName = "简体中文"
 languageCode = "zh-hans"
 #contentDir = "content/zh-Hans"
 weight = 1
-title = "跨儿计划"
 
 [languages.zh-hant]
 languageName = "繁體中文"
 languageCode = "zh-hant"
 #contentDir = "content/zh-Hant"
 weight = 2
-title = "跨兒計畫"
 
 [languages.ja]
 languageName = "日本語"
 languageCode = "ja"
 #contentDir = "content/ja"
 weight = 3
-title = "プロジェクト　トランス"

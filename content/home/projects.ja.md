@@ -8,4 +8,4 @@ weight: 2
 - [RLE.wiki](https://RLE.wiki) 【中國語のみ】RLE.wiki は、トランスジェンダーの方々に RLE（実生活経験）のガイドを提供することを目的としており、一部のコンテンツは MtF.wiki から移行されました。
 - [2345.LGBT](https://2345.LGBT/ja)【日本語あり】トランスジェンダーや LGBT 関連のリソースを紹介するナビゲートサイト。
 - [Transfeminine Science](https://transfemscience.org/) の[中国語訳](https://tfsci.mtf.wiki)
-- 『女の子の声になろう！』の[中國語のサイト](https://project-trans.github.io/jyosei-guide/)
+- 『女の子の声になろう！』の[中國語のサイト](https://vocal.mtf.wiki/)
