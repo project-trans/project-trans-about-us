@@ -9,3 +9,4 @@ weight: 2
 - [2345.LGBT](https://2345.LGBT) A navigational site for trans and LGBT related resources.
 - [Chinese translation](https://tfsci.mtf.wiki) of [Transfeminine Science](https://transfemscience.org/).
 - [Chinese site](https://vocal.mtf.wiki/) of _Be the voice of a girl!_ (Japanese).
+- [History of the development of transgender-related laws and regulations in mainland China](https://project-trans.org/china-legal/) (Chinese)
