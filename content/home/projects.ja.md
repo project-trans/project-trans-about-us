@@ -9,3 +9,4 @@ weight: 2
 - [2345.LGBT](https://2345.LGBT/ja)【日本語あり】トランスジェンダーや LGBT 関連のリソースを紹介するナビゲートサイト。
 - [Transfeminine Science](https://transfemscience.org/) の[中国語訳](https://tfsci.mtf.wiki)
 - 『女の子の声になろう！』の[中國語のサイト](https://vocal.mtf.wiki/)
+- [中国大陸におけるトランスジェンダー関連法規の歴史](https://project-trans.org/china-legal/) 【中國語のみ】
