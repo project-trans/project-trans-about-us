@@ -3,4 +3,4 @@ title: "Project Trans"
 weight: 0
 ---
 
-Our existence is resistence
+Our existence is resistance
