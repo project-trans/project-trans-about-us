@@ -4,7 +4,7 @@ image: "logo.png"
 weight: 1
 ---
 
-Project Trans se ha convertido del equipo de MtF wiki para mantener mejor varios proyectos como MtF wiki, FtM wiki y otros.
+Project Trans se ha convertido del equipo de MtF wiki para mantener mejor varios proyectos como [MtF wiki](https://mtf.wiki), [FtM wiki](https://ftm.wiki) y otros.
 
 Project Trans se esfuerza por crear una plataforma libre, abierta y continuamente actualizada para el conocimiento y la información transgénero. Creemos que todas las personas tienen el mismo derecho a elegir su orientación sexual, identidad de género y expresión de género, libres de estigma, discriminación y violencia.
 
