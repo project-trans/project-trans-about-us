@@ -4,7 +4,7 @@ image: "logo.png"
 weight: 1
 ---
 
-Project Trans は、元 MtF wiki チームがリニューアルし、MtF wiki も FtM wiki などのプロジェクトをより良く維持するために作成されました。
+Project Trans は、元 MtF wiki チームがリニューアルし、[MtF wiki](https://mtf.wiki) も [FtM wiki](https://ftm.wiki) などのプロジェクトをより良く維持するために作成されました。
 
 Project Trans は、ランスジェンダーの知識と情報を自由でオープンかつ継続的に更新して提供することを目指しています。性的指向、性別アイデンティティ、性別表現などについて、汚名や差別、暴力に影響を受けることなく、誰もが平等に選択できる権利があると考えています。
 
